@@ -1,4 +1,8 @@
-﻿<!DOCTYPE html>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="StartPagina.aspx.cs" Inherits="SpelVerzameling.StartPagina" %>
+
+<!DOCTYPE html>
+
+<!DOCTYPE html>
 <html>
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1">
