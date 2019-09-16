@@ -17,6 +17,11 @@
 
 </head>
 <body>
+    <nav> 
+        <a href="http://www.google.nl">GOOGLE</a>
+
+
+    </nav>
     <form runat="server">
         <asp:ScriptManager runat="server">
             <Scripts>
